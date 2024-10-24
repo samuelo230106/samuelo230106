@@ -1,4 +1,4 @@
-- sam
+sam
 
 <!---
 samuelo230106/samuelo230106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
